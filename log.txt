@@ -1,0 +1,76 @@
+2021-03-26 17:40:55.310 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:40:55.364 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:40:58.570 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:40:58.577 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\Pizzeria.csproj
+2021-03-26 17:40:58.748 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:40:58.789 +01:00 [ERR] Project is not restored: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\Pizzeria.csproj
+2021-03-26 17:41:09.916 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:41:09.961 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:41:12.440 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:41:16.995 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:41:36.884 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:41:36.887 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:41:46.026 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:41:46.029 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:43:12.555 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:43:12.599 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:43:15.129 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:43:15.163 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:43:15.168 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\Pizzeria.csproj
+2021-03-26 17:43:15.412 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:43:48.392 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:43:48.395 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:43:49.767 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:43:49.770 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:44:15.582 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:44:15.625 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:44:17.754 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:44:17.760 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\PizzeriaLibrary.csproj
+2021-03-26 17:44:17.980 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:44:18.030 +01:00 [ERR] Project is not restored: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\PizzeriaLibrary.csproj
+2021-03-26 17:45:06.773 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:45:06.815 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:45:08.887 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:45:15.660 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:45:21.758 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:45:21.760 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:45:24.714 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:45:24.717 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:46:43.154 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:46:43.204 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:46:45.552 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:46:45.584 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:46:45.589 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\PizzeriaLibrary.csproj
+2021-03-26 17:46:45.902 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:47:01.021 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:47:01.023 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:47:02.997 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:47:02.999 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:51:04.524 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:51:04.566 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:51:07.176 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:51:07.209 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:51:07.213 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\Pizzeria.csproj
+2021-03-26 17:51:07.457 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:51:09.489 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:51:09.491 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:51:15.265 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:51:15.268 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\Pizzeria\.upgrade-assistant
+2021-03-26 17:59:06.370 +01:00 [INF] MSBuild registered from C:\Program Files\dotnet\sdk\5.0.201\
+2021-03-26 17:59:06.424 +01:00 [INF] Registered 1 extensions:
+	Default extension
+2021-03-26 17:59:08.772 +01:00 [INF] Loading upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
+2021-03-26 17:59:08.805 +01:00 [INF] Initializing upgrade step Select an entrypoint
+2021-03-26 17:59:08.811 +01:00 [INF] Setting entrypoint to only project in solution: C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\PizzeriaLibrary.csproj
+2021-03-26 17:59:09.119 +01:00 [INF] Initializing upgrade step Finalize upgrade
+2021-03-26 17:59:13.591 +01:00 [INF] Applying upgrade step Finalize upgrade
+2021-03-26 17:59:13.594 +01:00 [INF] Upgrade step Finalize upgrade applied successfully
+2021-03-26 17:59:16.451 +01:00 [INF] Upgrade has completed. Please review any changes.
+2021-03-26 17:59:16.455 +01:00 [INF] Saving upgrade progress file at C:\Users\Maciej\Desktop\Metapackv2\Pizzeria\PizzeriaLibrary\.upgrade-assistant
